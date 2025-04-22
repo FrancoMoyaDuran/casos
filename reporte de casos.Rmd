@@ -1,1 +1,8 @@
-comparar tsa de ataque en diferentes grupos
+comparar tasa de ataque en diferentes grupos
+
+git add, agregar cambios 
+git commit para guardar camnbios, -m""
+git log, para revisar quien realizo los cambios 
+
+hola
+como estas
