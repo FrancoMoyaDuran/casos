@@ -8,3 +8,6 @@ git log, para revisar quien realizo los cambio
 lnclkasckldc
 jsnclsdlc
 sdnc
+
+chile 
+argentina 
