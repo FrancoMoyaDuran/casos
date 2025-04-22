@@ -6,3 +6,4 @@ git log, para revisar quien realizo los cambios
 
 hola
 como estas
+gente
