@@ -2,8 +2,9 @@ comparar tasa de ataque en diferentes grupos
 
 git add, agregar cambios 
 git commit para guardar camnbios, -m""
-git log, para revisar quien realizo los cambios 
+git log, para revisar quien realizo los cambio
 
-hola
-como estas
-gente
+
+lnclkasckldc
+jsnclsdlc
+sdnc
